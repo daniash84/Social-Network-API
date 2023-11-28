@@ -17,8 +17,11 @@ nodemon
 The program needs to be run with insomnia to see the full program in effect. 
 
 ### Deployment
+https://github.com/daniash84/Social-Network-API
+https://daniash84.github.io/Social-Network-API/
 
 #### Screenshots
+n/a
 
 #### Resources:
 I had help from other students
